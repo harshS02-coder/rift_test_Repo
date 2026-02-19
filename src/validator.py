@@ -1,2 +1,2 @@
-def validate(x)  # missing colon — SYNTAX bug on line 1
+def validate(x):
     return x > 0
