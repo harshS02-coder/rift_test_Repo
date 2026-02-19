@@ -1,4 +1,4 @@
-from utils import add
+from ..utils import add
 from validator import validate
 
 def test_add():
