@@ -9,7 +9,7 @@ import random
 # ─── Bug 2: INDENTATION error ────────────────────────────────────────────────
 def calculate_area(length, width):
     area = length * width
-      return area          # wrong indentation (extra spaces)
+      return area
 
 
 # ─── Bug 3: SYNTAX error — missing colon ─────────────────────────────────────
