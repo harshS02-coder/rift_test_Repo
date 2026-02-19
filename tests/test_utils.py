@@ -1,5 +1,5 @@
-from src.utils import add
-from src.validator import validate
+from utils import add
+from validator import validate
 
 def test_add():
     assert add(2, 3) == 5
